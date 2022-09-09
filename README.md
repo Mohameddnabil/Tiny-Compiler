@@ -1,5 +1,4 @@
 # Tiny-Compiler
-Compiler for C alike language
 
 A compiler for a tiny programming language (c-like language), which consists mainly of two phases :
 
